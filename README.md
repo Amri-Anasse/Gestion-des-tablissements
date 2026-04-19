@@ -11,7 +11,7 @@ Elle permet de gérer et afficher une liste d’établissements stockés dans un
 
 - PHP (PDO)
 - MySQL
-- HTML / CSS
+- HTML / CSS(Bootstrap)
 - Architecture MVC
 
 ---
